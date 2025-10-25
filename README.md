@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm **Hatim Mushtaq Khan!** 🖥️ Networking Engineer | 🌐 Cisco Learner | 🚀 Future Network Engineer  
 <br><br>
-I specialize in **Computer Networking** with practical experience in **Cisco Packet Tracer**and **GNS-3** configuring **DHCP,DNS,ACLs,Protocol(OSPF,STP,SNMP,BGP,VRRP/HSRP,EIGRP,RIP), NAT, Routing, Switching**, and **LAN/WAN setups**.  
+I specialize in **Computer Networking** with practical experience in **Cisco Packet Tracer**and **GNS-3** configuring **DHCP,DNS,ACLs,Firewall, Protocol(OSPF, STP, SNMP, BGP, VRRP/HSRP, EIGRP, RIP), NAT, Routing, Switching**, and **LAN/WAN setups**.  
 I am fully capable of configuring **Wi-Fi networks, VLANs, routers, and switches** to ensure secure and efficient communication across devices.  
 My goal is to design secure, scalable, and efficient networks that keep people and businesses connected.  
 I'm passionate about **network automation, cloud networking**, and exploring how data travels around the world.
